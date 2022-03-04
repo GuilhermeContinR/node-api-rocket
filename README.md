@@ -31,9 +31,9 @@
 npm install
 ```
 
-## Rodar Projeto
+## Rodar Testes
 ```bash
-npm start
+npm test
 ```
 
 
