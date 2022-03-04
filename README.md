@@ -1,12 +1,12 @@
-# Clone 
+<!-- # Clone -->
 
-### Veja rodando no link abaixo:
-
-
- ![image](https://user-images.githubusercontent.com/83739628/147168370-4d5181f1-a851-43ad-89a2-818985289792.png)
+<!-- ### Veja rodando no link abaixo: -->
 
 
-## 🚀 Projeto criado pare treinar conceitos de API's e reforçar atividades do ReactJS como:
+ <!-- ![image](https://user-images.githubusercontent.com/83739628/147168370-4d5181f1-a851-43ad-89a2-818985289792.png) -->
+
+
+<!-- ## 🚀 Projeto criado pare treinar conceitos de API's e reforçar atividades do ReactJS como:
 
 - ✔️ Componentização.
 - ✔️ Uso de props.
@@ -18,12 +18,12 @@
 
 ## ⚙ Pré Requisitos
 
-- Antes de iniciar o projeto, você vai precisar das seguintes ferramentas: 
+- Antes de iniciar o projeto, você vai precisar das seguintes ferramentas:
     - ✔️ [VsCode](https://code.visualstudio.com/download);
     - ✔️ [Git](https://git-scm.com/)
     - ✔️ [NodeJS](https://nodejs.org/en/download/)
 
-<br>
+<br> -->
 
 
 ## Instalar dependências
